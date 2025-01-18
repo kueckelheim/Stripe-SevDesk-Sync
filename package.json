@@ -1,0 +1,33 @@
+{
+  "name": "stripe-sevdesk-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20.18.0",
+    "npm": ">=10.8.2"
+  },
+  "devDependencies": {
+    "@types/cli-progress": "^3.11.6",
+    "@types/node": "^22.9.3",
+    "openapi-typescript": "^7.4.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.4",
+    "axios": "^1.7.7",
+    "cli-progress": "^3.12.0",
+    "csv-parse": "^5.6.0",
+    "dotenv": "^16.4.5",
+    "fast-csv": "^5.0.2",
+    "inquirer": "^12.3.1",
+    "pdf2json": "^3.1.5",
+    "stripe": "^17.4.0"
+  }
+}
