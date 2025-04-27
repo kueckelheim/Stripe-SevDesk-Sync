@@ -2,13 +2,7 @@
 
 A Node.js CLI program that synchronizes Stripe data with SevDesk for accounting purposes.
 
-## Get full code access
-
-This repository only contains code samples. If you are interested in full access, please contact: kueckelheim.erik@gmail.com
-
-## Ownership
-
-This repository is owned by:
+## Contact
 
 - Erik Nogueira Kückelheim
 - Bahnhofstraße 35a
@@ -208,8 +202,4 @@ If you encounter any issues, please refer to the log file generated after runnin
 
 ## Contributing
 
-If you would like to contribute to this project, please contact the repository owner for permission.
-
-## License
-
-This project is proprietary and not open for public use or distribution.
+If you would like to contribute to this project, please contact the repository owner.
